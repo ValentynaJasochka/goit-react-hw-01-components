@@ -1,0 +1,16 @@
+.transactionHistory {
+  max-width: 700px;
+  width: 100%;
+  border: 1px solid #575c59;
+  border-collapse: collapse;
+}
+
+.titleRow {
+  background-color: rgb(208, 208, 238);
+}
+
+.titleItem {
+  font-size: 18px;
+  font-weight: 500;
+  color: rgb(32, 3, 12);
+}

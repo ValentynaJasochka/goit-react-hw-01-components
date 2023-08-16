@@ -1,0 +1,44 @@
+li {
+    list-style: none;
+}
+
+.profile {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    width: 350px;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+    align-items: center;
+        background-color: rgb(225, 220, 220);
+}
+
+.avatar {
+    width: 250px;
+    border: 1px solid rgb(7, 2, 40);
+    border-radius: 50%;
+    background-color: rgb(238, 237, 243);
+}
+
+.name {
+    font-weight: 700;
+}
+
+.stats {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(85, 87, 87, 0.264);
+    padding: 10px;
+}
+.quantity {
+    font-weight: 600;
+}
+.label,
+.quantity {
+    display: block;
+}

@@ -1,0 +1,10 @@
+.row:nth-child(2n) {
+  background: #c3d6e8;
+}
+
+.rowItem {
+  border: 1px solid #65656e;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 5px;
+}

@@ -1,0 +1,11 @@
+.statistics {
+  width: 700px;
+  padding: 10px;
+  background-color: rgba(167, 186, 187, 0.799);
+  text-align: center;
+}
+.title {
+  font-size: 36px;
+  font-weight: 500;
+  text-transform: uppercase;
+}

@@ -1,0 +1,27 @@
+.item {
+  display: flex;
+  gap: 20px;
+  padding: 10px;
+  border-radius: 20px;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgb(144, 170, 237);
+}
+
+.status {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+.name {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}

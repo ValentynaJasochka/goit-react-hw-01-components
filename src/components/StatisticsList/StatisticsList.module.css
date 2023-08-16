@@ -1,0 +1,22 @@
+.statList {
+  display: flex;
+  justify-content: space-around;
+}
+.item {
+  width: 60px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid rgb(23, 14, 81);
+  border-radius: 5px;
+}
+.label {
+  font-size: 24px;
+  font-weight: 400;
+}
+.percentage {
+  font-size: 14px;
+  font-weight: 500;
+}
